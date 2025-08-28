@@ -13,6 +13,3 @@ This project automates AWS infrastructure provisioning using Terraform, with CI/
 2. Update variables in `variables.tf` as needed.
 3. Run pipeline to deploy resources.
 
-## Notes
-
-- For GitHub Actions, you may need to convert `.gitlab-ci.yml` to `.github/workflows/terraform.yml`.
